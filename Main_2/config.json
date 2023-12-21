@@ -1,0 +1,33 @@
+{
+  "default": [
+    {"Frame": {
+    "stroke_weight": 5,
+    "fill_colour": 255,
+    "stroke_colour": 100
+  },
+  "Slider" : {
+    "line_stroke_weight" : 2,
+    "line_colour" : 155,
+    "button_fill_colour" : 155,
+    "button_stroke_weight" : 3,
+    "button_stroke_colour" : 255,
+    "button_width": 30,
+    "button_height" : 10,
+    "text_size" : 10,
+    "text_offset" : 20
+    },
+"Checkbox" : {
+    "stroke_weight" : 1,
+    "stroke_colour" : 155,
+    "fill_colour" : 180,
+    "text_size" : 10,
+    "text_offset" : 0
+    }
+}],
+
+  "custom": [{"Frame": {
+    "stroke_weight": 0,
+    "fill_colour": 155,
+    "stroke_colour": 255
+  }}]
+}
