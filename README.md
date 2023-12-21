@@ -5,7 +5,7 @@ To use:-
 
 Currently available classes include:-
 - Component (The most barebones element of the library that all others inherit from with some exceptions such as UIManager)
-- Frame (Basic frame structure mostly intended to display rectangals and house other elements)
+- Frame (Basic frame structure mostly intended to display rectangles and house other elements)
 - Checkbox (Simple check box with some options for reacting to keypresses and showing icons)
 - Slider (Simple slider made to scale mostly consistently with size and output both an internal variable showing its value as well as text containing said value)
 - UIManager (Used to make changes to the config file from the editor)
