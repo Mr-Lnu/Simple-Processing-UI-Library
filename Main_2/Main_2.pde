@@ -15,7 +15,7 @@ void setup(){
   frame = new Frame(true, 100, 300, 400, 300);
   UI = new UIManager("config.json");
   slider = new Slider(150, 320, 100, 10, 0, 100);
-  checkbox = new Checkbox(true, true, 150, 355, 20, img);
+  checkbox = new Checkbox(true, 150, 355, 20, img);
   frame.add_component(slider);
   frame.add_component(checkbox);
 }
