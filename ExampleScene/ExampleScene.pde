@@ -1,3 +1,5 @@
+//This comment is here
+
 //To add elements to your scene initialise objects of the types you need as global variable so that they can be used in draw
 Frame frame;
 Slider slider;
